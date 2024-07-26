@@ -17,7 +17,7 @@ from PyQt5.QtWidgets import (
     QWidget,
 )
 
-from views.manage_books_widget import BooksWindow
+from views.books_window import BooksWindow
 
 
 class MainWindow(QMainWindow):
